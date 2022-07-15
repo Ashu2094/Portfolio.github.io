@@ -1,0 +1,38 @@
+.hero2{
+	height: 100vh;
+	width: 100%;
+	background-image: url('images/wallpaper2you_355991.jpg');
+	background-size: cover;
+	background-position: center;
+}
+.box2{
+	display: flex;
+	justify-content: left;
+	align-items: center;
+	min-height: 400px;
+}
+.card2{
+	height: 365px;
+	width: 335px;
+	padding: 30px 35px;
+	background: #191919;
+	border-radius: 20px;
+	margin: 100px;
+	position: relative;
+	overflow: hidden;
+	text-align: center;
+}
+
+.cpp{
+   
+    width: 80%;
+    height: auto;
+	padding-left: 45px;
+
+}
+
+.service2{
+	/* background: #101010; */
+	width: 100%;
+	padding: 100px 0px;
+}
